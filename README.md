@@ -1,16 +1,19 @@
-# profile_manager
+## Profile Manager using Supabase and Flutter
 
-A new Flutter project.
+For the database schema, storage bucket and pre-requisites, refer to this page -
+<a src = "https://supabase.com/docs/guides/getting-started/tutorials/with-flutter?queryGroups=database-method&database-method=sql&queryGroups=platform&platform=web">
+  Building a User Management application with Supabase
+</a>
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+Users can enter and authenticate their email address and proceed to store, retrieve and update their details using Supabase Storage.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2025-09-03 at 17 15 43_bff65015](https://github.com/user-attachments/assets/69ff9b36-99c4-4845-8eb7-da200836aca7)
+<br><br>
+![WhatsApp Image 2025-09-03 at 17 15 43_dfdc26df](https://github.com/user-attachments/assets/25cfaf35-45d0-4374-a435-0f96e577e69c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
