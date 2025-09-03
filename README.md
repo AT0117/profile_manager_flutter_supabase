@@ -1,7 +1,7 @@
 ## Profile Manager using Supabase and Flutter
 
-For the database schema, storage bucket and pre-requisites, refer to this page -
-<a src = "https://supabase.com/docs/guides/getting-started/tutorials/with-flutter?queryGroups=database-method&database-method=sql&queryGroups=platform&platform=web">
+For the database schema, storage bucket and pre-requisites, refer to this page - <br>
+<a href = "https://supabase.com/docs/guides/getting-started/tutorials/with-flutter?queryGroups=database-method&database-method=sql&queryGroups=platform&platform=web">
   Building a User Management application with Supabase
 </a>
 
